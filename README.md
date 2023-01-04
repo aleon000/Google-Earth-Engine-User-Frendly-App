@@ -1,4 +1,4 @@
-# tfm_gee
+# Google Earth Engine User Frendly App
 
 Esta app te permite visualizar varias colecciones de imagenes (imageCollection), disponibles en Earth Engine Data Catalog. Permite seleccionar el ImageCollection, sus bandas, elegir el estadistico para reducir esta coleccion, o seleccionar una imagen de la coleccion dentro del rango temporal seleccionado. Tambien permite escoger una paleta con su rango de visualización para representar los resultados.
 
